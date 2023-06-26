@@ -24,3 +24,5 @@ jobs:
 
         stack_destroy: false
         tf_state_bucket_destroy: false
+        
+        DEBUG_MODE: 'true'
